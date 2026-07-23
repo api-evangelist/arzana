@@ -1,22 +1,76 @@
 aid: arzana
 name: Arzana
-description: Arzana is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Arzana is an AI-powered Office Execution System for US manufacturers and
+  distributors, founded in 2025 in San Francisco and backed by Y Combinator
+  (Spring 2026). Arzana trains custom models on a factory's historical data and
+  deploys agents that automate back-office work — quoting, estimating, order
+  entry, purchasing, prospecting, outreach, CRM, AP 3-way match, AR tracking,
+  and customer service — alongside a customizable ERP/CRM/MES with every agent
+  pre-installed. Forward-deployed engineers configure each agent per operation;
+  Arzana reports going live in 120 days with 99%+ accuracy. Arzana currently
+  exposes no public developer API, SDK, or documentation surface; it does
+  publish a /llms.txt for agent discovery.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.arzana.com/images/generated/linkedin-preview.png
 url: https://raw.githubusercontent.com/api-evangelist/arzana/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-yc-batch: Spring 2026
+x-founded: '2025'
+x-location: San Francisco, CA
+x-tier: profiled
+x-tier-reason: enriched-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Manufacturing
+- ERP
+- AI Agents
+- Automation
+- CRM
+- Office Automation
+- Distribution
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/arzana-domain-security.yml
+- type: Website
+  url: https://www.arzana.com
+- type: Blog
+  url: https://www.arzana.com/blog/
+- type: TermsOfService
+  url: https://www.arzana.com/legal/terms/
+- type: PrivacyPolicy
+  url: https://www.arzana.com/legal/privacy-policy/
+- type: LLMsTxt
+  url: llms/arzana-llms.txt
+- type: LinkedIn
+  url: https://www.linkedin.com/company/arzana-ai/
+- type: YouTube
+  url: https://www.youtube.com/@Arzana.Automation
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

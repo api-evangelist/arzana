@@ -1,0 +1,36 @@
+# Arzana
+
+> Arzana is the AI-powered Office Execution System for US manufacturers and distributors. Our agents automate quoting, order entry, purchasing, prospecting, outreach, CRM, AP 3-way match, AR tracking, and customer service. Forward-deployed engineers configure each agent for your specific operation. Live in 120 days, 99%+ accuracy.
+
+## Product
+
+- [Arzana ERP](https://www.arzana.com/erp/): Infinitely customizable ERP, CRM, and MES with every Arzana AI agent pre-installed.
+- [Arzana Agents (all solutions)](https://www.arzana.com/solutions/): Index of every standalone AI agent.
+- [Quoting](https://www.arzana.com/solutions/quoting/): Automate RFQ-to-quote for catalog manufacturers.
+- [Estimating](https://www.arzana.com/solutions/estimating/): Custom-trained AI estimating for job shops and custom manufacturers.
+- [Order Entry](https://www.arzana.com/solutions/order-entry/): Touchless order entry from email and PDF.
+- [Purchasing](https://www.arzana.com/solutions/purchasing/): Auto-generate RFQs, discover vendors, compare bids.
+- [Prospecting](https://www.arzana.com/solutions/prospecting/): Matched-product prospecting across 10+ data sources.
+- [Outreach](https://www.arzana.com/solutions/outreach/): Personalized multi-channel outreach with engagement tracking.
+- [CRM](https://www.arzana.com/solutions/crm/): Manufacturing-purpose-built CRM with auto-qualified leads.
+- [AP 3-Way Match](https://www.arzana.com/solutions/ap-match/): Automated invoice/PO/receiver matching.
+- [AR Tracking](https://www.arzana.com/solutions/ar-tracking/): Invoicing, aging, collections, optional immediate payment.
+- [Customer Service](https://www.arzana.com/solutions/customer-service/): AI handles routine inquiries with live order data.
+
+## Company
+
+- [About Arzana](https://www.arzana.com/about/): Team, philosophy, forward-deployed engineering model.
+- [Customers](https://www.arzana.com/customers/): Case studies and outcomes from US manufacturers.
+- [Blog](https://www.arzana.com/blog/): Long-form essays on manufacturing automation.
+
+## Get Started
+
+- [Book a demo](https://calendly.com/william-arzana/30min)
+- [Front Office Assessment](https://www.arzana.com/assessment/) — 10-question scorecard
+- [Referral program](https://www.arzana.com/referral/) — earn up to $100K per introduction
+
+## Contact
+
+- Website: https://www.arzana.com
+- LinkedIn: https://www.linkedin.com/company/arzana-inc
+- X / Twitter: https://twitter.com/MarshKools
