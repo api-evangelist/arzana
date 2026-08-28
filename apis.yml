@@ -11,6 +11,17 @@ description: >-
   Arzana reports going live in 120 days with 99%+ accuracy. Arzana currently
   exposes no public developer API, SDK, or documentation surface; it does
   publish a /llms.txt for agent discovery.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
